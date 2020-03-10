@@ -1,9 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .head {
   background: #fc0;
   height: 100px;
   position: relative;
   width: 100px;
+  align-self: center;
 }
+
 .face {
   font-family: 'courier new', serif;
   font-size: 2.5em;
