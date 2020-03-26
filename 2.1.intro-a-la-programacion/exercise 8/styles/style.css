@@ -1,0 +1,10 @@
+.btn-default {
+  margin: 10px;
+  padding: 30px;
+  border: 2px solid silver;
+  background: rgb(63, 157, 245);
+}
+
+.btn-default.error {
+  opacity: 0.5;
+}
