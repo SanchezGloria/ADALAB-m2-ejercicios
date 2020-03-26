@@ -1,0 +1,14 @@
+/* PARA EL PRIMER EJEMPLO */
+
+.color--default {
+  background: lemonchiffon;
+}
+
+.color--scroll {
+  background: lightblue;
+}
+
+/* PARA EL SEGUNDO EJEMPLO */
+.change {
+  background: red;
+}
